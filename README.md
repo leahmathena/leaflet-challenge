@@ -15,3 +15,5 @@ This project visualizes earthquake data from the United States Geological Survey
 - [D3.js](https://d3js.org/): Data visualization library used to fetch and process data
 - HTML, CSS, and JavaScript
 
+## Live Demo
+You can view the live version of the project at: [Earthquake Visualization](https://leahmathena.github.io/leaflet-challenge/)
